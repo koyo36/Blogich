@@ -1,0 +1,8 @@
+.featured-image {
+    overflow: hidden;
+    max-height: 360px;
+}
+.featured-image > .post-thumbnail > img {
+    padding: 0;
+    width: 100%;
+}

@@ -1,0 +1,20 @@
+/* POSTS NAVIGATION */
+.navigation.posts-navigation .nav-links {
+    width: 100%;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 120px;
+    clear: both;
+}
+.navigation.posts-navigation .nav-links > .nav-previous {
+    display: block;
+    float: left;
+    width: 40%;
+}
+.navigation.posts-navigation .nav-links > .nav-next {
+    display: block;
+    float: right;
+    width: 40%;
+    text-align: right;
+}
